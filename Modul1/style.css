@@ -1,0 +1,29 @@
+#formtabel {
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+  
+  }
+
+  .tab .isi {
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid #000000;
+    background-color: gold;
+}
+ 
+.tabbel, td {
+    border: 1px solid #000000;
+    padding: 5px;
+    background-color: gold;
+}
+
+#tabbel{
+  position: relative;
+  top: -45px;
+}
